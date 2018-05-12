@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5646
     wikipedia: http://fi.wikipedia.org/wiki/Matti_Kurikka
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14719#Viimeinen-ponnistusN-ytelm--nelj-ss--n-yt-ksess-
 gutenberg_issued: '2005-01-17'
 gutenberg_type: Text
 identifiers:
