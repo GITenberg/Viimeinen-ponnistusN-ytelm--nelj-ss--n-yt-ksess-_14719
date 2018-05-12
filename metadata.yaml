@@ -1,0 +1,29 @@
+_repo: Viimeinen-ponnistusN-ytelm--nelj-ss--n-yt-ksess-_14719
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kurikka, Matti
+    birthdate: 1863
+    deathdate: 1915
+    gutenberg_agent_id: '5646'
+    url: http://www.gutenberg.org/2009/agents/5646
+    wikipedia: http://fi.wikipedia.org/wiki/Matti_Kurikka
+description: ''
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14719'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish drama'
+title: 'Viimeinen ponnistus
+
+  Näytelmä neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/14719
